@@ -4,12 +4,15 @@ class Hello{
         byte num = 9;
         short num1 = 129;
         int result = num + num1;
+        int result1 = num * num1;
 
         // adding comments to test this current branch...
 
 
 
 System.out.println(result);
+System.out.println(result1);//Added multiplaying option for above inputs given
+
 
 
 }
